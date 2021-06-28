@@ -17,6 +17,6 @@ DiveWatch has everything you need to fuel your passion for diving with useful fe
 
 The DiveWatch app is the perfect companion for casual and professional divers - take it with you on your next diving adventure for an enhanced experience :)
 
-Use the Discussions feature to create / join a conversation or to create a support request.
+Use the Discussions github feature to create / join a conversation or to create a support request.
 
 Welcome to the DiveWatch community :).

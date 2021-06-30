@@ -8,7 +8,7 @@ DiveWatch has everything you need to fuel your passion for diving with useful fe
 
 • Track your health vitals, such as heart rate.
 
-• Set the maximum dive depth and receive haptic feedback / warning notifications within 2 meters.
+• Set the maximum dive depth (up to 50 meters) and receive haptic feedback / warning notifications within 2 meters.
 
 • Store unlimited dives.
 
